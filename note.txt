@@ -1,0 +1,9 @@
+steps to use  git on a project
+
+1. initialize git on the project  git innit
+2. stage/add changes 
+git add . add all file changes
+git add 'file/foldername' add specific file/
+folder changes
+git add 'text'
+3 commit file and add a message git 
